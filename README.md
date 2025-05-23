@@ -1,0 +1,2 @@
+# Cyber-Attacks-on-Communication-Networks-During-Warfare-Research-Webpage
+This project is part of my academic journey as a first-year student at Auckland University of Technology (AUT), studying Bachelor of Science in Cyber Security and Networking. It explores the role of cyber-attacks on communication networks during warfare, highlighting both the technological impact and ethical considerations in modern digital conflict.
